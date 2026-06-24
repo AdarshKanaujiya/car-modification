@@ -1,0 +1,21 @@
+@import "tailwindcss";
+
+/* Scrollbar styling for a cleaner look */
+.scrollbar-thin::-webkit-scrollbar {
+  width: 4px;
+  height: 4px;
+}
+.scrollbar-thin::-webkit-scrollbar-track {
+  background: #0f172a;
+}
+.scrollbar-thin::-webkit-scrollbar-thumb {
+  background: #334155;
+  border-radius: 9999px;
+}
+.scrollbar-thin::-webkit-scrollbar-thumb:hover {
+  background: #f59e0b;
+}
+
+.scrollbar-none::-webkit-scrollbar {
+  display: none;
+}
