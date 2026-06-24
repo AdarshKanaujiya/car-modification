@@ -44,7 +44,7 @@ export const accessories = [
     category: "Roof Racks",
     price: 9500,
     vehicleId: "tata_punch",
-    overlay: "/assets/accesories/roof rack/rf2.png",
+    overlay: "/assets/accesories/roof rack/as.png",
     view: "side",
     zIndex: 3,
     fitType: "specific",
