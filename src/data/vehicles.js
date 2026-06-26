@@ -7,7 +7,7 @@ export const vehicles = [
     image: "/assets/vehicle/tata punch/tata punch.png",
     views: {
       side: "/assets/vehicle/tata punch/ass.png",
-      front: "/assets/vehicle/tata punch/front.png",
+      front: "/assets/vehicle/tata punch/front_2.png",
       back: "/assets/vehicle/tata punch/back.webp",
       top: "/assets/vehicle/tata punch/up.webp",
     }
